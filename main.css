@@ -1,24 +1,18 @@
 .services
 {
-    background-color: darkgray;
     text-align: center;
 
-}
-
-p
-{
-    color: teal;
 }
 
 .service 
 {
     display: inline-block;
-    width: 24%;
+    width: 20%;
 }
 
 i
 {
-    color:lightpink;
+    color:#f4623a;
 }
 
 
